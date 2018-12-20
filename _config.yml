@@ -1,14 +1,14 @@
 # Site settings
 title: Fe Blog  #你博客的标题
-SEOTitle: Fe的博客 | Fe Blog  #显示在浏览器上搜索的时候显示的标题
+SEOTitle: Fancy的博客 | Fe Blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
-email: fe@fedemo.top
-description: "Hey，我是Fe，一只JAVA程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
-keyword: "Fe的博客,fedemo,GitHub,Fe,博客,Blog,JAVA" #关键词
-url: "https://fedemo.top"          # your host, for absolute URL
+email: fanzhuoyu@126.com
+description: "Hey，我是Fancy，一只前端程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
+keyword: "Fancy的博客,GitHub,Fancy,博客,Blog," #关键词
+url: "https://fanzhuoyu.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "blog" # you code repository
-author: Fe
+author: Fancy
 
 # 是否托管在Coding_Pages
 Coding_Pages: true
@@ -25,11 +25,11 @@ sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's u
 # SNS settings社交账号
 RSS: false
 # weibo_username:
-zhihu_username:    fedemo
-github_username:    FeDemo
+zhihu_username:    
+github_username:    
 # facebook_username:
-twitter_username:   Fedemo10
-# coding_username: fedemo
+twitter_username:   
+# coding_username: 
 
 
 
@@ -97,16 +97,4 @@ service-worker: true
 
 
 
-# Friends好友链接
-friends: [
-    {
-        title: "Fe Blog",
-        href: "https://fedemo.top/"
-    },{
-        title: "interview",
-        href: "https://fedemo.github.io/interview/"
-    },{
-        title: "Fe Coding",
-        href: "https://coding.net/u/fedemo/project"
-    }
-]
+
